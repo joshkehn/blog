@@ -1,6 +1,8 @@
 {"title":"Everything I Know About Bitcoins (BTC)", "date":1365897740000}
 ++++++++++
 
+Last week Anthony wrote a [post on bitcoins](http://blog.byjakt.com/bitcoins.html). Then I get [hit with a tweet](https://twitter.com/AaronFancyPants/status/322089383144599553) asking for more information. This is my best-effort explination of bitcoins.
+
 The best way to start about what a bitcoin _is_ exactly would be the [Wikipedia page on Bitcoins][wiki: bitcoin]. After that read through all the [references][wiki: bitcoin-ref].[^1]
 
 What is a bitcoin? How are they spent? Should I invest in them?
@@ -11,7 +13,7 @@ Let's say you dig a rock out of the ground. This rock looks nice and you figure 
 
 Bob takes this rock and thinks he can get some eggs for it. He goes to Jane and transfers the rock to her, repeating the signing process. Alice -> Bob -> Jane.
 
-This is essentially how bitcoins are transferred. There are some other intricacies like wallets and network verifications, but the nutshell is that Person A and Person B together sign a record saying the bitcoin (or part thereof) now belongs to Person B.
+This is essentially how bitcoins are transferred. There are some other intricacies like wallets and network verifications, but in a nutshell, Person A and Person B together sign a record saying the bitcoin (or part thereof) now belongs to Person B.
 
 Now how do you find these valuable rocks?
 
@@ -25,7 +27,7 @@ For humans this is hard, but with a computer you can test every number possible 
 
 ## I Don't Want To Mine, Gimme BTC
 
-If you don't want to dig rocks out of the ground itself, you have to find someone who dug the rocks and is willing to trade them to you for something else. Often people [will pay some other currency][preev] based on the current exchange rate. The exchange rate is similar to a stock market. I think it's worth $10 per BTC and someone agrees. We swap and the exchange records it so people can base their buying / selling off of previous trades. Want to see something crazy? Check out this [graph of the market price (USD)][blockchain: market-price] by [blockchain.info][blockchain]. They also have a [ton of other bitcoin charts you might be interested in][blockchain: charts].
+If you don't want to mine bitcoins yourself, you can buy them on an exchange like (Mt. Gox)[https://mtgox.com/](80% of bitcoin trading done here) or accept them as payment for a good or service using something like (Coinbase)[https://coinbase.com/]. Want to see something crazy? Check out this [graph of the market price (USD)][blockchain: market-price] by [blockchain.info][blockchain]. They also have a [ton of other bitcoin charts you might be interested in][blockchain: charts].
 
 Now that you have some BTC let's see what you can do with them.
 
@@ -33,9 +35,9 @@ Now that you have some BTC let's see what you can do with them.
 
 Are bitcoins as universal as US dollars? Nope. Are they as anonymous? Guess again. Why would bitcoins become a currency?
 
-Let's poise another problem. How do you exchange cash? Physical money is often transacted in person, requiring close proximity to the merchant. It's not feasible for me to exchange cash with someone located far away from me. **This** is where bitcoins shine.
+Let's pose another problem. How do you exchange cash? Physical money is often transacted in person, requiring close proximity to the merchant. It's not feasible for me to exchange cash with someone located far away from me. **This** is where bitcoins shine.
 
-Let me explain in a little more detail. As a consumer I want to transact with someone far away with me. Electronic means make this possible, but at what cost? Credit card networks are happy to provide the service, but they charge fees on top of the actual cost to use their networks. They are also costly to implement, requiring merchant accounts or another system like [Stripe](https://stripe.com) or [Paypal](https://www.paypal.com) in between.
+Let me explain in a little more detail. As a consumer I want to transact with someone far away with me. Electronic means (e.g., [Paypal](https://www.paypal.com)) make this possible, but at what cost? Credit card networks are happy to provide the service, but they charge fees on top of the actual cost to use their networks. They are also costly to implement, requiring merchant accounts or another system like [Stripe](https://stripe.com) in between. Bitcoins, on the other hand, have no fees associated with their transfer.
 
 [This bitcoin.it wiki page](https://en.bitcoin.it/wiki/Trade#Internet_.26_Mobile_services) lists a variety of places that accept bitcoins
 
@@ -43,7 +45,7 @@ Let me explain in a little more detail. As a consumer I want to transact with so
 
 They certainly are real, but their use as a currency is under heavy debate.
 
-> But the biggest difference between bitcoin and other virtual currencies is that bitcoins are the only one which have speculative value. What’s more, because they’re not tied to a corporate parent, bitcoins appeal to the web’s anarcho-libertarians in the way that no other virtual currency can. Bitcoins hold exactly the same gleaming promise for techno-utopians as gold does for Glenn Beck. They’re a scarce resource, and there’s no government or corporation which can control that resource.
+> But the biggest difference between bitcoin and other virtual currencies is that bitcoins are the only ones that have speculative value. What’s more, because they’re not tied to a corporate parent, bitcoins appeal to the web’s anarcho-libertarians in the way that no other virtual currency can. Bitcoins hold exactly the same gleaming promise for techno-utopians as gold does for Glenn Beck. They’re a scarce resource, and there’s no government or corporation which can control that resource.
 
 <cite>Source: [Felix Salmon][medium: bitcoins]</cite>
 
