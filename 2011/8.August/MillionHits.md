@@ -1,0 +1,10 @@
+{"title":"Millions of Hits a Day","date":1314832885000}
+++++++++++
+
+I'm not talking about how many hits I serve. Let's get that straight right off the bat. This is not a "real world" example or anything close. This is a simple benchmark run from a single location, close to the server, fetching the same url, against a small VPS server running Apache. It's not comparable to actual people or a distributed cluster.
+
+After reading about the [9 million hits a day](http://tumbledry.org/2011/08/31/9_million_hits_day_with_120) article I was initially amazed. How come I had never heard of this site? How was he getting that kind of traffic? The misleading link-bait title references a metric given by stress testing site [blitz.io](http://blitz.io/). It uses an average hit rate to determine what you *theoretically* could handle. As I mentioned this doesn't really matter because it's one server hitting one url, not many people hitting many urls. 
+
+The most interesting part of the article was not actually the caching or PHP process tuning, both of which were rather dry and underdeveloped. The most interesting part was the inline caching and JavaScript portion that uses the cached page and client side JavaScript to emulate dynamic features, specifically selectively displaying comments. This kind of client side offloading is exactly what we need to see more of as the web expands. Not only does it lighten the load on your server but it also allows users to customize their own viewing experience. Say I want to view all comments. Write a quick [user script](http://userscripts.org/) that overrides all the nodes and displays them. 
+
+For the record, my site can apparently handle over **19 million hits / day**. I don't consider my static file solution incomparable to his PHP based solution because he is correctly caching it&mdash;effectively serving static content. I'm also using a basic Apache server instead of nginx. I wonder what the speed increase would be if I switched or went to something very bare metal like [node-static](https://github.com/cloudhead/node-static).

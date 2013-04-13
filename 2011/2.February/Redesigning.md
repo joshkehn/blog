@@ -1,0 +1,3 @@
+{"title": "Redesigning (again)","date": 1297053551000}
+++++++++++
+I'm going at it again. [My previous design attempt](http://joshuakehn.com/blog/view/11/Site-design-for-JoshuaKehn-com) left a lot to be desired in my view. The colors are flat and dull. The text doesn't fill enough of the page, [butter scraped over too much bread](http://www.imdb.com/character/ch0000153/quotes) in a way. I'll be working on a new design, but in the mean time I have binned the old one and put up a temporary [all in one page](http://joshuakehn.com/) that I hope isn't too plain. The new design-to-be can be found at [/main.html](http://joshuakehn.com/main.html) if you are interested in seeing my progress.

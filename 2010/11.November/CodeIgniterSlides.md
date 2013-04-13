@@ -1,0 +1,5 @@
+{"title": "CodeIgniter Slides","date": 1290056464000}
+++++++++++
+Slides from the [November CodeIgniter Meetup](http://www.meetup.com/codeigniter/events/15002431/).
+
+<div style="width:425px" id="__ss_5818436"><object id="__sse5818436" width="425" height="355"><param name="movie" value="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=codeigniter-101117225109-phpapp02&stripped_title=code-igniter-5818436&userName=joshkehn" /><param name="allowFullScreen" value="true"/><param name="allowScriptAccess" value="always"/><embed name="__sse5818436" src="http://static.slidesharecdn.com/swf/ssplayer2.swf?doc=codeigniter-101117225109-phpapp02&stripped_title=code-igniter-5818436&userName=joshkehn" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="425" height="355"></embed></object></div>

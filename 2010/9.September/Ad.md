@@ -1,0 +1,5 @@
+{"title": "NYC - Advertisement","date": 1285470424000}
+++++++++++
+I picked this [YouTube clip](http://www.youtube.com/watch?v=_cj2KAy2QS8&feature=player_embedded) up from [GothamGeek's blog](http://gothamgeek.com/post/1018542941/i-love-this-commercial-because-it-is-so-true-new) (which is run by Steven Martin of [Martin Tech Labs](http://martintechlabs.com/)) and figured I would re-post it here, if anything to keep tabs on it when I want to point people to it. So wonderfully true. I love New York City. Every day is something new and it's *never* boring.
+
+<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/_cj2KAy2QS8?fs=1&hl=en_US"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/_cj2KAy2QS8?fs=1&hl=en_US" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
