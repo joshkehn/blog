@@ -27,7 +27,7 @@ For humans this is hard, but with a computer you can test every number possible 
 
 ## I Don't Want To Mine, Gimme BTC
 
-If you don't want to mine bitcoins yourself, you can buy them on an exchange like (Mt. Gox)[https://mtgox.com/](80% of bitcoin trading done here) or accept them as payment for a good or service using something like (Coinbase)[https://coinbase.com/]. Want to see something crazy? Check out this [graph of the market price (USD)][blockchain: market-price] by [blockchain.info][blockchain]. They also have a [ton of other bitcoin charts you might be interested in][blockchain: charts].
+If you don't want to mine bitcoins yourself, you can buy them on an exchange like [Mt. Gox](https://mtgox.com/) (80% of bitcoin trading done here) or accept them as payment for a good or service using something like [Coinbase](https://coinbase.com/). Want to see something crazy? Check out this [graph of the market price (USD)][blockchain: market-price] by [blockchain.info][blockchain]. They also have a [ton of other bitcoin charts you might be interested in][blockchain: charts].
 
 Now that you have some BTC let's see what you can do with them.
 
@@ -87,9 +87,13 @@ Because of how transactions are managed with bitcoins (remember signing the rock
 Any remaining questions about bitcoins? I'm not an expert, but I do excel at finding answers and solving problems. [Ping me on twitter](https://twitter.com/joshkehn).
 
 [^1]: [Instapaper](http://instapaper.com) is there to help you.
+
 [^2]: The answer is 446208.
+
 [^3]: The network also regulates the difficulty of this problem to ensure blocks of bitcoins are generated approximately every 10 minutes.
+
 [^4]: Captured today from [blockchain.info](http://blockchain.info/charts/market-price)
+
 [^5]: Going to discuss this with Anthony right now.
 
 
