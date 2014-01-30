@@ -1,6 +1,10 @@
 {"title":"Postgres.app and psycopg2 on OS X", "date":1381702652087}
 ++++++++++
 
+> Turns out that system library changes also affect the compilation process of
+> psycopg2. Overall, not their fault but definitely something to keep in mind.
+> The original article is below.
+
 I had a lot of fun today after upgrading [psycopg2][psycopg] to 2.5.1. I was
 playing around with [SQLAlchemy][sqlalchemy] so I ran the normal commands for
 getting a Postgres database up and running.
